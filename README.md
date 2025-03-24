@@ -23,14 +23,7 @@
   <!--python-->
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <br/>
-  
-  ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
-  
+   
   ### Framework
   <!--winform-->
   <img src="https://img.shields.io/badge/winform-000000?style=flat-square&logo=winformk&logoColor=white"/>
