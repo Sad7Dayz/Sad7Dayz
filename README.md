@@ -10,16 +10,14 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: I am a FullStack Engineer from South Korea.<br/>
   <br/>
   <br/>
   
   ## 🧱 Tech Stack
   ### Language
   <!--c#-->
-  <img src="https://img.shields.io/badge/Csharp-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-3776AB?style=flat-square&logo=csharp&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--python-->
@@ -42,6 +40,8 @@
   <img src="https://img.shields.io/badge/asp.net-61DAFB?style=flat-square&logo=asp.net&logoColor=white&Color=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+   <!--Node.js-->
+  <img src="https://img.shields.io/badge/NodeJs-61DAFB?style=flat-square&logo=NodeJs&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/Oracle-4A154B?style=flat-square&logo=Oracle&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--MongoDb-->
+  <img src="https://img.shields.io/badge/MongoDb-4479A1?style=flat-square&logo=MongoDb&logoColor=white"/>
   <br/>
   <br/>
   
