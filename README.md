@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
    <!--Node.js-->
   <img src="https://img.shields.io/badge/NodeJs-61DAFB?style=flat-square&logo=NodeJs&logoColor=white&Color=white"/>
+   <!--Nest.js-->
+  <img src="https://img.shields.io/badge/NestJs-61DAFB?style=flat-square&logo=NestJs&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
