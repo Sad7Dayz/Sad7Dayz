@@ -17,20 +17,20 @@
   ## 🧱 Tech Stack
   ### Language
   <!--c#-->
-  <img src="https://img.shields.io/badge/Csharp-3776AB?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <!--python-->
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <br/>
    
   ### Framework
   <!--winform-->
-  <img src="https://img.shields.io/badge/winform-000000?style=flat-square&logo=winformk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=dotnet&logoColor=white"/>
   <!--wpf-->
   <img src="https://img.shields.io/badge/wpf-092E20?style=flat-square&logo=wpf&logoColor=white"/>
   <!--asp.net-->
-  <img src="https://img.shields.io/badge/asp.net-61DAFB?style=flat-square&logo=asp.net&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
    <!--Node.js-->
@@ -41,7 +41,7 @@
   
   ### ETC
   <!--MsSql-->
-  <img src="https://img.shields.io/badge/MsSql-232F3E?style=flat-square&logo=MsSql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <!--Oracle-->
   <img src="https://img.shields.io/badge/Oracle-4A154B?style=flat-square&logo=Oracle&logoColor=white"/>
   <!--MySQL-->
@@ -52,7 +52,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sad7Dayz)](https://github.com/Sad7Dayz/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sad7Dayz&show_icons=true&theme=tokyonight)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sad7Dayz)](https://github.com/Sad7Dayz/github-readme-stats)
   
