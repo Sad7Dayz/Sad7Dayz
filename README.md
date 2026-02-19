@@ -51,20 +51,16 @@
   <br/>
   <br/>
   
- ## 🤔 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sad7Dayz&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sad7Dayz&theme=tokyonight" height="170"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sad7Dayz&theme=tokyonight"/>
+</p>
 
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sad7Dayz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-
-</div>
-
-  
-</div>
 <!--
 **Sad7Dayz/Sad7Dayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
