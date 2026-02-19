@@ -58,7 +58,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sad7Dayz&theme=tokyonight" height="170"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad7Dayz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sad7Dayz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
 
 </div>
 
