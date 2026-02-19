@@ -28,7 +28,7 @@
   <!--winform-->
   <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=dotnet&logoColor=white"/>
   <!--wpf-->
-  <img src="https://img.shields.io/badge/wpf-092E20?style=flat-square&logo=wpf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
   <!--asp.net-->
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <!--React-->
@@ -51,10 +51,16 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sad7Dayz&show_icons=true&theme=tokyonight)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sad7Dayz)](https://github.com/Sad7Dayz/github-readme-stats)
+ ## 🤔 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sad7Dayz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sad7Dayz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
   
 </div>
 <!--
